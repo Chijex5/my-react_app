@@ -1,7 +1,10 @@
 import React from 'react';
-import axios from 'axios';
+
 import './NotifyMeButton.css';
 const BASE_URL = "https://mybackend-2.onrender.com";
+// Instead of import axios from 'axios';
+const axios = require('axios');
+
 
 const NotifyMeButton = ({ book, handleNotifyMe }) => {
   const notifyUser = async () => {

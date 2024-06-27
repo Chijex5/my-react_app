@@ -1,9 +1,10 @@
 import React, { useState, useEffect } from 'react';
-import axios from 'axios';
 import './findbooks.css'; // Ensure you have findbooks.css for styles
 import NotifyMeButton from './NotifyMeButton'; // Adjust path as per your project structure
 
 const BASE_URL = "https://mybackend-2.onrender.com";
+// Instead of import axios from 'axios';
+const axios = require('axios');
 
 const FindBooks = () => {
   const [searchQuery, setSearchQuery] = useState('');

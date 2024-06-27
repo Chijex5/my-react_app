@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/my-app/static/css/main.11a3f154.chunk.css",
-    "main.js": "/my-app/static/js/main.d9894a36.chunk.js",
-    "main.js.map": "/my-app/static/js/main.d9894a36.chunk.js.map",
-    "runtime~main.js": "/my-app/static/js/runtime~main.edc371fe.js",
-    "runtime~main.js.map": "/my-app/static/js/runtime~main.edc371fe.js.map",
-    "static/js/2.bce6e464.chunk.js": "/my-app/static/js/2.bce6e464.chunk.js",
-    "static/js/2.bce6e464.chunk.js.map": "/my-app/static/js/2.bce6e464.chunk.js.map",
-    "static/js/3.34b8d668.chunk.js": "/my-app/static/js/3.34b8d668.chunk.js",
-    "static/js/3.34b8d668.chunk.js.map": "/my-app/static/js/3.34b8d668.chunk.js.map",
-    "index.html": "/my-app/index.html",
-    "precache-manifest.7757172c4098d7731b644978626d8a41.js": "/my-app/precache-manifest.7757172c4098d7731b644978626d8a41.js",
-    "service-worker.js": "/my-app/service-worker.js",
-    "static/css/main.11a3f154.chunk.css.map": "/my-app/static/css/main.11a3f154.chunk.css.map"
+    "main.css": "/my-react_app/static/css/main.11a3f154.chunk.css",
+    "main.js": "/my-react_app/static/js/main.d9894a36.chunk.js",
+    "main.js.map": "/my-react_app/static/js/main.d9894a36.chunk.js.map",
+    "runtime~main.js": "/my-react_app/static/js/runtime~main.0435d2aa.js",
+    "runtime~main.js.map": "/my-react_app/static/js/runtime~main.0435d2aa.js.map",
+    "static/js/2.4318e544.chunk.js": "/my-react_app/static/js/2.4318e544.chunk.js",
+    "static/js/2.4318e544.chunk.js.map": "/my-react_app/static/js/2.4318e544.chunk.js.map",
+    "static/js/3.34b8d668.chunk.js": "/my-react_app/static/js/3.34b8d668.chunk.js",
+    "static/js/3.34b8d668.chunk.js.map": "/my-react_app/static/js/3.34b8d668.chunk.js.map",
+    "index.html": "/my-react_app/index.html",
+    "precache-manifest.d2304df449186494b8b5deaa8bb78d38.js": "/my-react_app/precache-manifest.d2304df449186494b8b5deaa8bb78d38.js",
+    "service-worker.js": "/my-react_app/service-worker.js",
+    "static/css/main.11a3f154.chunk.css.map": "/my-react_app/static/css/main.11a3f154.chunk.css.map"
   }
 }
